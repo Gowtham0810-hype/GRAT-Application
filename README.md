@@ -1,5 +1,6 @@
 # Gingivitis Risk Assessment Tool
-<img src="screenshots/logo.png" width="80"/>
+<img src="images/dental_logo.png" width="80"/>
+
 A mobile application built with **Flutter** and **Firebase** to assist dental professionals in assessing, storing, and managing patients' gingivitis risk. This tool simplifies clinical decision-making by providing structured assessments and automated risk evaluations.
 
 ---
