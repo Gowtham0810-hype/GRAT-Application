@@ -42,7 +42,7 @@ A mobile application built with **Flutter** and **Firebase** to assist dental pr
   <img src="images/in.jpg" width="200"/>
   <img src="images/up.jpg" width="200"/>
   <img src="images/record.jpg" width="200"/>
-  <img src="imagesg/form.jpg" width="200"/>
+  <img src="images/form.jpg" width="200"/>
   
 </p>
 
