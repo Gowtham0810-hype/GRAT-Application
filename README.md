@@ -129,3 +129,23 @@ A mobile application built with **Flutter** and **Firebase** to assist dental pr
     └── stresscallandcomplaincedata.dart
 
 ```
+## 📝 License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+You are free to:
+
+- Use
+- Modify
+- Distribute
+- Share
+
+**Under the following terms**:
+
+- 📖 **Source Code Disclosure**: If you distribute the software or a modified version, you must make the source code available.
+- 🛠️ **Same License**: Derivatives must also be licensed under GPLv3.
+- 📝 **License Notice**: You must include this license in all copies or substantial portions of the software.
+
+**No Warranty** is provided with this software.
+
+For full license text, see: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
