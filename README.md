@@ -39,10 +39,11 @@ A mobile application built with **Flutter** and **Firebase** to assist dental pr
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/login.png" width="200"/>
-  <img src="screenshots/form_tab1.png" width="200"/>
-  <img src="screenshots/form_tab2.png" width="200"/>
-  <img src="screenshots/patient_list.png" width="200"/>
+  <img src="images/signin.png" width="200"/>
+  <img src="images/signup.png" width="200"/>
+  <img src="images/reset.png" width="200"/>
+  <img src="images/record.png" width="200"/>
+  
 </p>
 
 ---
